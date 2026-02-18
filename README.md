@@ -64,6 +64,9 @@ Open `calculator.html` in any modern web browser to use the calculator.
 
 ## 📸 Screenshot
 
+![Calculator Screenshot](images/calculator-screenshot.png)
+
+*Modern calculator with gradient design and responsive layout*
 The calculator features a modern design with:
 - Blue gradient display screen
 - Colorful gradient buttons
