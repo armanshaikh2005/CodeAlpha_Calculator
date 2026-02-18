@@ -62,11 +62,17 @@ This project was created as part of CodeAlpha Internship Program.
 
 Open `calculator.html` in any modern web browser to use the calculator.
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-🖼️ [Calculator Screenshot](images)
+![Calculator](images/img1.png)
+*Calculator interface*
 
-*Modern calculator with gradient design and responsive layout*
+![Addition](images/img2.png)
+*Performing addition: 10 + 15*
+
+![Result](images/img3.png)
+*Result: 25*
+
 The calculator features a modern design with:
 - Blue gradient display screen
 - Colorful gradient buttons
